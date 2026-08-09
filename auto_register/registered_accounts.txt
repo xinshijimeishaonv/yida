@@ -1,9 +1,9 @@
 === 自动注册账号记录 ===
-开始时间: 2026-08-08 01:42:03
+开始时间: 2026-08-09 01:47:29
 统一密码: Sikeming001@
 格式: 时间 | 网址 | 邮箱 | 密码 | 状态
 ==================================================
-时间: 2026-08-08 01:42:08 | 网址: https://xixicats.pw/getnodelist | 邮箱: yq4ynvom726@gmail.com | 密码: Sikeming001@ | 状态: 成功-注册+登录+获取节点
-时间: 2026-08-08 01:42:18 | 网址: https://www.heduian.asia/getnodelist | 邮箱: 38df8ujp7471@gmail.com | 密码: Sikeming001@ | 状态: 成功-注册+登录+获取节点
-时间: 2026-08-08 01:42:20 | 网址: https://mgnet.vip/getnodelist | 邮箱: ckxunc46bg941@gmail.com | 密码: Sikeming001@ | 状态: 失败-注册失败或需要验证
-时间: 2026-08-08 01:42:25 | 网址: https://xixi.ph/getnodelist | 邮箱: ihtedgaijl725@gmail.com | 密码: Sikeming001@ | 状态: 成功-注册+登录+获取节点
+时间: 2026-08-09 01:47:34 | 网址: https://xixicats.pw/getnodelist | 邮箱: zby60fot836@gmail.com | 密码: Sikeming001@ | 状态: 成功-注册+登录+获取节点
+时间: 2026-08-09 01:47:45 | 网址: https://www.heduian.asia/getnodelist | 邮箱: 348o73jfp468@gmail.com | 密码: Sikeming001@ | 状态: 成功-注册+登录+获取节点
+时间: 2026-08-09 01:47:46 | 网址: https://mgnet.vip/getnodelist | 邮箱: eku7sbr5683@gmail.com | 密码: Sikeming001@ | 状态: 失败-注册失败或需要验证
+时间: 2026-08-09 01:47:56 | 网址: https://xixi.ph/getnodelist | 邮箱: 577kn38xfmy647@gmail.com | 密码: Sikeming001@ | 状态: 成功-注册+登录+获取节点
